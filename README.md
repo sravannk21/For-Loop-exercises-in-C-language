@@ -1,1 +1,2 @@
 # For-Loop-exercises-in-C-language
+Hi, my name is Sravan NK. I'm a Python developer who took a three-year break from the IT industry for personal reasons. I'm now returning to the field and focusing on Android development using Kotlin. To refresh my programming skills, I started with C, as it's considered the foundation for many other languages. This repository contains my C programs to practice and assess my understanding of for loops. Please review the code files.
